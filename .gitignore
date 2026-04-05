@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Pickle files (large serialized data)
+*.pkl
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+*.egg
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
